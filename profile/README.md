@@ -583,13 +583,13 @@ main/java/org.scoula
 
 ### 📑 AI 계약서 분석, 서류 분석, 체크리스트
 
-<img width="1017" height="568" alt="스크린샷 2025-08-21 오후 1 38 10" src="https://github.com/user-attachments/assets/3e9277b6-9ac3-48ce-bbee-006eeca6162a" />
+<img width="1512" height="840" src="https://github.com/user-attachments/assets/3ba420b6-0176-4151-b782-95eb1276d613" />
 
 <img width="1022" height="572" src="https://github.com/user-attachments/assets/ab56cc0d-c530-4321-b3f1-d6919d4cd350" />
 
 <img width="1022" height="574" src="https://github.com/user-attachments/assets/f7ced51c-eca0-4f09-b123-ea2398b6b472" />
 
-<img width="1023" height="575" src="https://github.com/user-attachments/assets/9d6cf768-e5f9-4be4-8c34-4c8cf9632c84" />
+<img width="1512" height="845" src="https://github.com/user-attachments/assets/9eb7ea62-75a9-4961-b489-f898ba539b92" />
 
 <br />
 
