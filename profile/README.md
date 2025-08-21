@@ -1,8 +1,10 @@
 ## 꼼꼼한 서류 분석과 신뢰성 있는 중개사 정보로 안전한 부동산 거래를 이끄는, **집걱정단**
 
-<!-- <img width="128" height="128" src="https://github.com/user-attachments/assets/5a719032-072e-4c3d-8233-616235269f0d" /> -->
+**👉 [서비스 바로가기](http://home-worry-party-alb-341952107.ap-northeast-2.elb.amazonaws.com)**
 
-**👉 [서비스 바로가기](http://54.66.153.95:8080)**
+**📹 [영상 보러가기](https://youtu.be/QGLd_JbfpK8)**
+
+https://github.com/user-attachments/assets/9da407a8-96df-4990-a846-7536358232aa
 
 <br />
 
@@ -201,12 +203,15 @@ pages
 │  │  AnalysisPage.vue
 │  │
 │  └─components
-│          IncidentChecklist.vue
-│          StepAgentTrust.vue
-│          StepBuildingHistory.vue
-│          StepCheckRegistryInfo.vue
-│          StepRiskAnalysis.vue
-│
+│  │       IncidentChecklist.vue
+│  │       StepAgentTrust.vue
+│  │       StepBuildingHistory.vue
+│  │       StepCheckRegistryInfo.vue
+│  │       StepRiskAnalysis.vue
+│  │
+│  └─ composables
+│          useAnalysisStep.js
+│          usePostcode.js
 ├─auth
 │  │  ChangePasswordPage.vue
 │  │  LoginPage.vue
@@ -223,12 +228,15 @@ pages
 │  │  ChecklistPage.vue
 │  │
 │  └─components
-│          ChecklistBtn.vue
-│          ChecklistNavBar.vue
-│          ChecklistQuestion.vue
-│          ChecklistStagePage.vue
-│          CircleButton.vue
-│
+│  │       ChecklistBtn.vue
+│  │       ChecklistNavBar.vue
+│  │       ChecklistQuestion.vue
+│  │       ChecklistStagePage.vue
+│  │       CircleButton.vue
+│  │
+│  └─components
+│          useChecklistStep.js
+│ 
 ├─dangerResult
 │  │  DangerResultPage.vue
 │  │
@@ -575,16 +583,14 @@ main/java/org.scoula
 <br />
 
 ## 🧑🏻‍💻 개발자
-<!--
 | [김유빈](https://github.com/ubeeni) | [노경현](https://github.com/Kyunghyun1121) |
 |:---:|:---:|
-| 팀장 / 체크리스트 / 서류, AI 계약서 분석 / 부동산 용어 변환 | 체크리스트 / 서류 분석 / DB / AWS 배포 |
+| 팀장 / 체크리스트 / 서류, AI 계약서 분석 / 부동산 용어 해석 / 부동산 지식 퀴즈 | 체크리스트 / 서류 분석 / 인프라 및 배포 환경 구성 |
 
 | [이다연](https://github.com/Leeday11) | [황동민](https://github.com/Dongmin-Hwang715) |
 |:---:|:---:|
-| 디자인 / 중개사 / 로그인, 회원가입 / 마이페이지 | 중개사 / 로그인, 회원가입 / 마이페이지 | 
+| 디자인 / 중개사무소 / 홈, 로그인, 회원가입, 마이페이지 / 부동산 지식 퀴즈 / 중개수수료 계산기 | 중개사무소 / 로그인, 회원가입, 마이페이지 / 부동산 지식 퀴즈 | 
 
 | [김려린](https://github.com/ryeorin) | [이의민](https://github.com/min4034415) |
 |:---:|:---:|
-| 지도 / AI 모델 | 지도 |
--->
+| 지도 / 매물, 시세 상세 페이지 / AI 계약서 분석 / 사용자 기반 매물 추천 | 지도 / 부동산 맵 필터 / 매물, 시세 상세 페이지 |
