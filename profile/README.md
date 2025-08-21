@@ -580,6 +580,14 @@ main/java/org.scoula
 
 ## 📸 스크린샷
 
+<img width="1023" height="574" alt="스크린샷 2025-08-21 오후 1 38 10" src="https://github.com/user-attachments/assets/79763409-64d8-4f36-ade3-bca991212f34" />
+
+<img width="1022" height="572" alt="스크린샷 2025-08-21 오후 1 38 19" src="https://github.com/user-attachments/assets/ab56cc0d-c530-4321-b3f1-d6919d4cd350" />
+
+<img width="1022" height="574" alt="스크린샷 2025-08-21 오후 1 38 30" src="https://github.com/user-attachments/assets/f7ced51c-eca0-4f09-b123-ea2398b6b472" />
+
+<img width="1023" height="575" alt="스크린샷 2025-08-21 오후 1 39 22" src="https://github.com/user-attachments/assets/9d6cf768-e5f9-4be4-8c34-4c8cf9632c84" />
+
 <br />
 
 ## 🧑🏻‍💻 개발자
