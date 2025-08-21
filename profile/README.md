@@ -607,7 +607,7 @@ main/java/org.scoula
 
 <img width="1022" height="575" src="https://github.com/user-attachments/assets/6db81f86-3384-41c3-9d3f-279fd67cf11e" />
 
-<img width="1021" height="571" src="https://github.com/user-attachments/assets/200161f3-e925-4237-815c-775e3b8a4b5a" />
+<img width="1505" height="841" src="https://github.com/user-attachments/assets/449c3155-17b7-499c-8d23-9dbfdf15cf7a" />
 
 <img width="1024" height="576" src="https://github.com/user-attachments/assets/81cbd433-8cbe-424b-b546-0e8683dc0925" />
 
