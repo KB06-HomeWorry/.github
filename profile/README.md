@@ -143,7 +143,8 @@ project-root/
 
 <details>
 <summary><b>📂 Front-End/ 구조 보기</b></summary>
-<img width="202" height="448" src="https://github.com/user-attachments/assets/34f14186-50b1-41d8-9f1d-b09a3e9855a7" />
+<img width="153" height="381" src="https://github.com/user-attachments/assets/f5cd5d35-1d62-4b90-a889-137b81da9a7d" />
+
 
 ```
 pages
