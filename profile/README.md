@@ -580,7 +580,9 @@ main/java/org.scoula
 
 ## 📸 스크린샷
 
-<img width="1023" height="574" alt="스크린샷 2025-08-21 오후 1 38 10" src="https://github.com/user-attachments/assets/79763409-64d8-4f36-ade3-bca991212f34" />
+### 메인 기능(AI 계약서 분석, 서류 분석, 체크리스트)
+
+<img width="1017" height="568" alt="스크린샷 2025-08-21 오후 1 38 10" src="https://github.com/user-attachments/assets/3e9277b6-9ac3-48ce-bbee-006eeca6162a" />
 
 <img width="1022" height="572" alt="스크린샷 2025-08-21 오후 1 38 19" src="https://github.com/user-attachments/assets/ab56cc0d-c530-4321-b3f1-d6919d4cd350" />
 
