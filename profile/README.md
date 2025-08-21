@@ -580,15 +580,35 @@ main/java/org.scoula
 
 ## 📸 스크린샷
 
-### 메인 기능(AI 계약서 분석, 서류 분석, 체크리스트)
+### 📑 AI 계약서 분석, 서류 분석, 체크리스트
 
 <img width="1017" height="568" alt="스크린샷 2025-08-21 오후 1 38 10" src="https://github.com/user-attachments/assets/3e9277b6-9ac3-48ce-bbee-006eeca6162a" />
 
-<img width="1022" height="572" alt="스크린샷 2025-08-21 오후 1 38 19" src="https://github.com/user-attachments/assets/ab56cc0d-c530-4321-b3f1-d6919d4cd350" />
+<img width="1022" height="572" src="https://github.com/user-attachments/assets/ab56cc0d-c530-4321-b3f1-d6919d4cd350" />
 
-<img width="1022" height="574" alt="스크린샷 2025-08-21 오후 1 38 30" src="https://github.com/user-attachments/assets/f7ced51c-eca0-4f09-b123-ea2398b6b472" />
+<img width="1022" height="574" src="https://github.com/user-attachments/assets/f7ced51c-eca0-4f09-b123-ea2398b6b472" />
 
-<img width="1023" height="575" alt="스크린샷 2025-08-21 오후 1 39 22" src="https://github.com/user-attachments/assets/9d6cf768-e5f9-4be4-8c34-4c8cf9632c84" />
+<img width="1023" height="575" src="https://github.com/user-attachments/assets/9d6cf768-e5f9-4be4-8c34-4c8cf9632c84" />
+
+<br />
+
+### 📍 중개사무소, 지도
+
+<img width="1024" height="575" src="https://github.com/user-attachments/assets/10369dd1-3a91-44fc-9aea-34597d4c731d" />
+
+<img width="1024" height="575" src="https://github.com/user-attachments/assets/f36dff60-328d-4c2f-b9ad-184f720c4b74" />
+
+<img width="1023" height="575" src="https://github.com/user-attachments/assets/230c1d8f-9779-48fd-9d1c-8f452e3401fb" />
+
+<br />
+
+### 🏡 부동산 용어 해석, 부동산 지식 퀴즈, 중개수수료 계산기
+
+<img width="1022" height="575" src="https://github.com/user-attachments/assets/6db81f86-3384-41c3-9d3f-279fd67cf11e" />
+
+<img width="1021" height="571" src="https://github.com/user-attachments/assets/200161f3-e925-4237-815c-775e3b8a4b5a" />
+
+<img width="1024" height="576" src="https://github.com/user-attachments/assets/81cbd433-8cbe-424b-b546-0e8683dc0925" />
 
 <br />
 
