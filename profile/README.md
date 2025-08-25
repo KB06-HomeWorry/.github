@@ -28,7 +28,7 @@ https://github.com/user-attachments/assets/9da407a8-96df-4990-a846-7536358232aa
 
 기존 플랫폼은 매물 정보 제공에 집중하지만, **거래의 안전성**까지는 보장하지 못합니다.
 
-우리는 거래 과정에서 **AI 분석**과 **신뢰 지수 시스템**을 도입하여,
+우리는 거래 과정에서 **AI 분석**과 **중개사무소 신뢰 지수 시스템**을 도입하여,
 
 **안전하고 투명한 부동산 거래 환경**을 만드는 것을 목표로 합니다.
 
@@ -643,6 +643,7 @@ main/java/org.scoula
 <img width="1512" height="845" src="https://github.com/user-attachments/assets/9eb7ea62-75a9-4961-b489-f898ba539b92" />
 <br />
 <br />
+<br />
 
 ### 🏢🤝 중개사무소
 <img width="1500" height="auto" alt="(최최종)집걱정단_발표자료_35" src="https://github.com/user-attachments/assets/66f94b11-2e45-4968-ae96-7495b3fed33d" />
@@ -654,7 +655,8 @@ main/java/org.scoula
 <img width="1500" height="auto" alt="(최최종)집걱정단_발표자료_41" src="https://github.com/user-attachments/assets/a5810422-4fd2-4a21-a1ad-f994cde607e2" />
 
 
-
+<br />
+<br />
 <br />
 
 ### 📍🗺️ 지도
@@ -663,6 +665,8 @@ main/java/org.scoula
 <img width="1500" height="auto" alt="(최최종)집걱정단_발표자료_47" src="https://github.com/user-attachments/assets/92f90c39-1094-4b34-bd1c-d865e212ea1a" />
 <br />
 <br />
+<br />
+
 
 
 
