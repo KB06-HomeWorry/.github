@@ -1,6 +1,6 @@
 ## 꼼꼼한 서류 분석과 신뢰성 있는 중개사 정보로 안전한 부동산 거래를 이끄는, **집걱정단**
 
-**👉 [서비스 바로가기](http://home-worry-party-alb-341952107.ap-northeast-2.elb.amazonaws.com)**
+<!-- **👉 [서비스 바로가기](http://home-worry-party-alb-341952107.ap-northeast-2.elb.amazonaws.com)** -->
 
 **📹 [영상 보러가기](https://youtu.be/QGLd_JbfpK8)**
 
